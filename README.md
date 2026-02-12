@@ -9,5 +9,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats:
-[![Hans's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuhanwoaini521&show_icons=true&theme=tokyonight)
+[![Hans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wuhanwoaini521&show_icons=true)
 ](https://github-readme-stats-sigma-five.vercel.app/api?username=wuhanwoaini521&show_icons=true)
