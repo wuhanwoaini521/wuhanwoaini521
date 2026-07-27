@@ -38,27 +38,6 @@
 
 ---
 
-### 🧩 What I'm Working On
-
-```text
-自动化测试框架
-    ├── Web UI 自动化
-    ├── API 接口自动化
-    ├── Pytest 插件与扩展
-    ├── Allure 测试报告
-    ├── Docker 测试环境
-    └── Jenkins 持续集成
-
-AI 应用测试
-    ├── Prompt 指令遵循测试
-    ├── RAG 检索效果评测
-    ├── 大模型幻觉检测
-    ├── Agent 工具调用测试
-    └── 自动化回归评测平台
-```
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -79,44 +58,6 @@ AI 应用测试
 ### 📈 Contribution Activity
 
 [![Hans's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuhanwoaini521)](https://github.com/wuhanwoaini521)
-
----
-
-### 💬 About Me
-
-```python
-class Hans:
-    role = "QA Automation Engineer"
-
-    languages = [
-        "Python",
-        "Shell",
-        "Groovy",
-    ]
-
-    testing = [
-        "Pytest",
-        "Playwright",
-        "Selenium",
-        "Allure",
-    ]
-
-    devops = [
-        "Docker",
-        "Jenkins",
-        "Linux",
-        "Git",
-    ]
-
-    currently_learning = [
-        "NeoVim",
-        "RAG Testing",
-        "Agent Testing",
-        "LLM Evaluation",
-    ]
-
-    motto = "能自动化解决的问题，就不要手动重复执行。"
-```
 
 ---
 
