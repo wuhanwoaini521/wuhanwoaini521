@@ -42,14 +42,8 @@
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=wuhanwoaini521&show_icons=true&count_private=true&include_all_commits=true"
+    src="https://stats.justsong.cn/api/github?username=wuhanwoaini521"
     alt="Hans's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wuhanwoaini521&layout=compact"
-    alt="Hans's Top Languages"
   />
 </p>
 
