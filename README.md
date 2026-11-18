@@ -1,40 +1,33 @@
-### Hi there 👋, I'm Hans!
+### 你好，我是 Hans 👋
 
-一名喜欢折腾技术的**全干型测试开发工程师**，日常主要使用 Python 编写自动化测试框架，也喜欢研究 Linux、Docker、CI/CD 和各种提高效率的工具。
+**测试开发工程师** · Python 自动化 / AI 应用评测 / 测试平台 · 大连
 
-* 🔭 目前专注于：**Web UI 自动化测试、接口自动化测试、测试平台建设**
-* 🌱 正在学习：**Python、NeoVim、AI 应用测试**
-* 🧪 常用框架：**Pytest、Playwright、Selenium、Allure**
-* 🚀 持续集成：**Jenkins、Docker、GitHub Actions**
-* 🐧 喜欢折腾：**Linux、Shell、开发环境与自动化工具**
-* 💡 最近关注：**RAG 测试、Agent 测试、大模型自动化评测**
-* 🎯 目标：不断提升测试效率，让重复工作全部自动化
+把重复的验证交给机器，把时间留给「这个到底该怎么测」。
+
+自称「全干型」，是因为测试、脚本、CI、前端都自己上手过。
 
 ---
 
-### 🛠 Languages and Tools
+## 🔧 我在做什么
 
-#### Languages
+| 项目 | 一句话 |
+| --- | --- |
+| [ai-qa-platform](https://github.com/wuhanwoaini521/ai-qa-platform) | 浏览器端的 AI 质量工程平台：需求 → 用例 → 执行 → 报告，一条链走完 |
+| [zed-qa-runner](https://github.com/wuhanwoaini521/zed-qa-runner) | pytest + Playwright 的 TUI 测试台：挑用例、排冲突、跑、定位、重跑，不改你的测试代码 |
+| [office-ai-survival](https://github.com/wuhanwoaini521/office-ai-survival) | 年会现场互动游戏：全场投票，把一个大模型训成「职场生存专家」 |
+| [self-tools](https://github.com/wuhanwoaini521/self-tools) | DevToolbox：本地优先的个人知识工作台（AI 对话 / 文档 / RSS / 历史地理） |
+| [geo-explorer](https://github.com/wuhanwoaini521/geo-explorer) | 微信小程序：可拖拽的真实地球，珠峰、深海、地层一路探险 |
+| [history-data-pipeline](https://github.com/wuhanwoaini521/history-data-pipeline) | 中国历史结构化数据仓库 + DuckDB 构建 pipeline |
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge\&logo=apachegroovy\&logoColor=white)
+---
 
-#### Testing
+## 🧰 日常
 
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge\&logo=qameta\&logoColor=white)
+**Python** · pytest · Playwright · Jenkins · Docker · GitHub Actions · Linux · NeoVim
 
-#### DevOps & Tools
+<sub>还用过：Selenium、Allure、Groovy；Rust / TypeScript 在学，能读能改。</sub>
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
+<sub>SDET in Dalian, China — test infrastructure and QA tooling for AI products (Python, Playwright, CI/CD). The six projects above are the short version.</sub>
 
 ---
 
@@ -46,12 +39,6 @@
     alt="Hans's GitHub stats"
   />
 </p>
-
----
-
-### 📈 Contribution Activity
-
-[![Hans's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuhanwoaini521)](https://github.com/wuhanwoaini521)
 
 ---
 
